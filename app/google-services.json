@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "360126577655",
+    "firebase_url": "https://fir-test-f90cb.firebaseio.com",
+    "project_id": "fir-test-f90cb",
+    "storage_bucket": "fir-test-f90cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360126577655:android:2e70df2aca39e8f8",
+        "android_client_info": {
+          "package_name": "com.example.luna.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360126577655-pnh8djmf1t2g53q2pq9jk9t1lelurd6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsMTliztjUZZKI25eODQ0iAjWyl4AULmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

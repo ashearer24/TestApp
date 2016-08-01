@@ -1,0 +1,28 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">My First App</string>
+    <!-- Activities -->
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My Message</string>
+    <!-- Checkboxes -->
+    <string name="beer">Beer</string>
+    <string name="coffee">Coffee</string>
+    <string name="paint">Paint</string>
+    <string name="tea">Tea</string>
+    <string name="dirtbike">Dirt Bike</string>
+    <string name="trains">Trains</string>
+    <!-- Radio Buttons -->
+    <string name="pirates">Pirate</string>
+    <string name="ninjas">Ninja</string>
+    <!-- Links -->
+    <string name="link_to_google">Visit Google!</string>
+    <!-- Spinner Values -->
+    <string-array name="planets_array">
+        <item>Second Floor</item>
+        <item>First Floor</item>
+        <item>Basement</item>
+    </string-array>
+
+</resources>
